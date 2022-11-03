@@ -12,7 +12,7 @@ The is the overview repository that will be used throught the semester to docume
 I have select Github Flow as my Branching strategy of choice for the semester and i will apply it to all my Projects, reason for choice : Github Flow is a simple easy to implement strategy since i will be working and using version control on my own 
 The diagram below depicts how the strategy will work :
 
-![](images/branch.png)
+![branch](https://user-images.githubusercontent.com/111293181/199689924-984abb97-e07e-41a0-bbec-9e0603d22d38.PNG)
 
 
 
